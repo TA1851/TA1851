@@ -61,6 +61,9 @@ I'm tatuhiko osaka, from Sapporo, Japan.
     <td>
       <img src="https://img.shields.io/badge/Sphinx-000?logo=sphinx&logoColor=fff">
     </td>
+    <td>
+      <img src="https://img.shields.io/badge/Sphinx-000?logo=sphinx&logoColor=fff">
+    </td>
   </tr>
 </table>
 
