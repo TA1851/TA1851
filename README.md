@@ -66,8 +66,8 @@ I'm tatuhiko osaka, from Sapporo, Japan.
       <img src="https://img.shields.io/badge/Sphinx-000?logo=sphinx&logoColor=fff">
       <img src="https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff">
       <img src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white">
-      <img src="">
-      <img src="">
+      <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff">
+      <img src="https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff">
     </td>
   </tr>
 </table>
