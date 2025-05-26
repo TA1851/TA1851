@@ -47,7 +47,7 @@ I'm tatuhiko osaka, from Sapporo, Japan.
       <img src="https://img.shields.io/badge/-React-555.svg?logo=react&style=flat">
       <br>
       <img src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat">
-      <img src="https://img.shields.io/badge/-Flask-000000.svg?logo=flask&style=flat">
+      <img src="https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white">
       <img src="https://img.shields.io/badge/-pandas-%23150458.svg?logo=pandas&style=flat">
       <img src="https://img.shields.io/badge/-selenium-555.svg?logo=selenium&style=flat">
       <br>
