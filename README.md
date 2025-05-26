@@ -24,6 +24,7 @@ I'm tatuhiko osaka, from Sapporo, Japan.
     <td>Lang</td>
     <td>DB</td>
     <td>Editor</td>
+    <td>Other</td>
   </tr>
   <tr>
     <td>
@@ -58,7 +59,7 @@ I'm tatuhiko osaka, from Sapporo, Japan.
       <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?logo=sqlite&style=flat">
     </td>
     <td>
-      <img src="">
+      <img src="https://img.shields.io/badge/Sphinx-000?logo=sphinx&logoColor=fff">
     </td>
   </tr>
 </table>
