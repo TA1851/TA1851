@@ -33,14 +33,13 @@ I'm tatuhiko osaka, from Sapporo, Japan.
     </td>
     <td>
       <img src="https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=flat">
-      <img src="https://img.shields.io/badge/-k8s-EEE.svg?logo=kubernetes&style=flat">
       <br>
-      <img src="https://img.shields.io/badge/-shell-555.svg?logo=shell&style=flat">
       <img src="https://img.shields.io/badge/-zsh-555.svg?logo=&style=flat">
     </td>
     <td>
       <img src="https://img.shields.io/badge/-HTML5-333.svg?logo=html5&style=flat">
       <img src="https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat">
+      <img src="https://img.shields.io/badge/-TailwindCSS-1572B6.svg?logo=tailwindcss&style=flat">
       <br>
       <img src="https://img.shields.io/badge/-JavaScript-276DC3.svg?logo=javascript&style=flat">
       <img src="https://img.shields.io/badge/-Node.js-555.svg?logo=nodedotjs&style=flat">
