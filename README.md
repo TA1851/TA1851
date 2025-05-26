@@ -59,10 +59,15 @@ I'm tatuhiko osaka, from Sapporo, Japan.
       <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?logo=sqlite&style=flat">
     </td>
     <td>
-      <img src="https://img.shields.io/badge/Sphinx-000?logo=sphinx&logoColor=fff">
+      <img src="https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white">
+      <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white">
     </td>
     <td>
       <img src="https://img.shields.io/badge/Sphinx-000?logo=sphinx&logoColor=fff">
+      <img src="https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff">
+      <img src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white">
+      <img src="">
+      <img src="">
     </td>
   </tr>
 </table>
