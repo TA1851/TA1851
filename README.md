@@ -86,11 +86,24 @@ I'm tatuhiko osaka, from Sapporo, Japan.
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/TA1851/Astro-Portfolio"><b>portfolio-site</b></a></td>
+      <td>
+        <a href="https://github.com/TA1851/Astro-Portfolio">
+          <b>portfolio-site</b>
+        </a>
+      </td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/TA1851/sky-follower-bridge?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/TA1851/sky-follower-bridge?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/TA1851/sky-follower-bridge?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/TA1851/sky-follower-bridge?style=flat-square&labelColor=343b41"/>     </td>
+      <td>
+        <a href="https://github.com/TA1851/blog-api-main">
+          <b>blog-api</b>
+        </a>
+      </td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/TA1851/sky-follower-bridge?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/TA1851/sky-follower-bridge?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/TA1851/sky-follower-bridge?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/TA1851/sky-follower-bridge?style=flat-square&labelColor=343b41"/>
     </tr>
 
 
