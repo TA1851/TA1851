@@ -81,7 +81,6 @@
   </tr>
 </table>
 
----
 
 ## 📊 GitHub Analytics
 
@@ -99,7 +98,6 @@
 
 </div>
 
----
 
 ## 🎯 Featured Projects
 
@@ -160,7 +158,6 @@
 
 </div>
 
----
 
 ## 📈 Contribution Activity
 
@@ -170,7 +167,6 @@
 
 </div>
 
----
 
 <div align="center">
 
