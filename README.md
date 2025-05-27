@@ -72,7 +72,7 @@ I'm tatuhiko osaka, from Sapporo, Japan.
   </tr>
 </table>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?TA1851=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TA1851)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h3>Open source projects</h3>
@@ -112,20 +112,3 @@ I'm tatuhiko osaka, from Sapporo, Japan.
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/TA1851/blog-api-main?style=flat-square&labelColor=343b41"/></td>
     </tr>
 </tbody>
-
-
-name: Update README
-on:
-  schedule:
-    - cron: '0 0 * * *'
-  workflow_dispatch:
-
-jobs:
-  update-readme:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - name: Update README
-        uses: athul/waka-readme@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
