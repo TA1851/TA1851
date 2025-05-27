@@ -101,110 +101,26 @@ I'm tatuhiko osaka, from Sapporo, Japan.
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/kawamataryo/sky-follower-bridge"><b>Sky Follower Bridge</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/kawamataryo/sky-follower-bridge?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/kawamataryo/sky-follower-bridge?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/kawamataryo/sky-follower-bridge?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/kawamataryo/sky-follower-bridge?style=flat-square&labelColor=343b41"/>     </td>
+      <td><a href="https://github.com/TA1851/Astro-Portfolio"><b>Astro-Portfolio</b></a></td>    
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/TA1851/sky-follower-bridge?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/TA1851/sky-follower-bridge?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/TA1851/sky-follower-bridge?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/TA1851/sky-follower-bridge?style=flat-square&labelColor=343b41"/>     </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/kawamataryo/vue-word-highlighter"><b>Vue Word Highlighter</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/kawamataryo/vue-word-highlighter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/kawamataryo/vue-word-highlighter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/kawamataryo/vue-word-highlighter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/kawamataryo/vue-word-highlighter?style=flat-square&labelColor=343b41"/>     </td>
+      <td><a href="https://github.com/TA1851/blog-api-main"><b>FastApiProject</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/TA1851/vue-word-highlighter?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/TA1851/vue-word-highlighter?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/TA1851/vue-word-highlighter?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/TA1851/vue-word-highlighter?style=flat-square&labelColor=343b41"/>     </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/kawamataryo/chikamichi"><b>Chikamichi</a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/kawamataryo/chikamichi?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/kawamataryo/chikamichi?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/kawamataryo/chikamichi?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/kawamataryo/chikamichi?style=flat-square&labelColor=343b41"/></td>
-	  </tr>
-    <tr>
-      <td><a href="https://github.com/kawamataryo/suppress-ts-errors"><b>Suppress TS Errors</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/kawamataryo/suppress-ts-errors?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/kawamataryo/suppress-ts-errors?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/kawamataryo/suppress-ts-errors?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/kawamataryo/suppress-ts-errors?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-      <td><a href="https://github.com/kawamataryo/animated-emoji-gen"><b>Animated emoji gen</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/kawamataryo/animated-emoji-gen?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/kawamataryo/animated-emoji-gen?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/kawamataryo/animated-emoji-gen?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/kawamataryo/animated-emoji-gen?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/kawamataryo/sync-raise-hand"><b>Sync Raise hand</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/kawamataryo/sync-raise-hand?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/kawamataryo/sync-raise-hand?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/kawamataryo/sync-raise-hand?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/kawamataryo/sync-raise-hand?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/kawamataryo/v-change-tags-order"><b>V Change Tags Order</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/kawamataryo/v-change-tags-order?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/kawamataryo/v-change-tags-order?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/kawamataryo/v-change-tags-order?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/kawamataryo/v-change-tags-order?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/kawamataryo/resume"><b>Resume</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/kawamataryo/resume?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/kawamataryo/resume?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/kawamataryo/resume?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/kawamataryo/resume?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-	  <tr>
-      <td><a href="https://github.com/kawamataryo/alfred-imagemin"><b>Alfred Imagemin</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/kawamataryo/alfred-imagemin?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/kawamataryo/alfred-imagemin?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/kawamataryo/alfred-imagemin?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/kawamataryo/alfred-imagemin?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-	  <tr>
-      <td><a href="https://github.com/kawamataryo/github-trending-bot"><b>GitHub Trending Bot</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/kawamataryo/github-trending-bot?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/kawamataryo/github-trending-bot?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/kawamataryo/github-trending-bot?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/kawamataryo/github-trending-bot?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/kawamataryo/tell-me-bot"><b>Tell me bot</a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/kawamataryo/tell-me-bot?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/kawamataryo/tell-me-bot?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/kawamataryo/tell-me-bot?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/kawamataryo/tell-me-bot?style=flat-square&labelColor=343b41"/></td>
-	  </tr>
-	  <tr>
-      <td><a href="https://github.com/kawamataryo/copy-git-link"><b>Copy Git Link</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/kawamataryo/copy-git-link?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/kawamataryo/copy-git-link?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/kawamataryo/copy-git-link?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/kawamataryo/copy-git-link?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-	  <tr>
-      <td><a href="https://github.com/kawamataryo/copy-python-path"><b>Copy Python Path</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/kawamataryo/copy-python-path?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/kawamataryo/copy-python-path?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/kawamataryo/copy-python-path?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/kawamataryo/copy-python-path?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-	  <tr>
-      <td><a href="https://github.com/kawamataryo/alfred-gyazo-uploader"><b>Alfred Gyazo Uploader</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/kawamataryo/alfred-gyazo-uploader?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/kawamataryo/alfred-gyazo-uploader?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/kawamataryo/alfred-gyazo-uploader?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/kawamataryo/alfred-gyazo-uploader?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/TA1851/Portfolio-Nextjs"><b>Nextjs-Project</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/TA1851/vue-word-highlighter?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/TA1851/vue-word-highlighter?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/TA1851/vue-word-highlighter?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/TA1851/vue-word-highlighter?style=flat-square&labelColor=343b41"/>     </td>
     </tr>
   </tbody>
 </table>
 
-</a>
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TA1851)](https://github.com/anuraghazra/github-readme-stats)
-
-## 📊 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
