@@ -85,11 +85,9 @@ I'm tatuhiko osaka, from Sapporo, Japan.
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TA1851">
 </a>
 
-<br>
-<br>
-<br>
+---
 
-<h3>Open source projects</h3>
+### Open source projects
 
 <table>
   <thead align="center">
