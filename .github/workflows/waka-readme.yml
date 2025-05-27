@@ -2,7 +2,7 @@ name: Waka Readme
 
 on:
   schedule:
-    # 毎日午前0時（UTC）に実行
+    # 毎日午前0時（UTC）に実行する
     - cron: '0 0 * * *'
   workflow_dispatch:
 
