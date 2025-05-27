@@ -92,3 +92,8 @@ I'm tatuhiko osaka, from Sapporo, Japan.
 </a>
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TA1851)](https://github.com/anuraghazra/github-readme-stats)
+
+## 📊 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
