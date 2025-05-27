@@ -74,6 +74,9 @@ I'm tatuhiko osaka, from Sapporo, Japan.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TA1851)](https://github.com/anuraghazra/github-readme-stats)
 
+![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=TA1851&layout=compact)
+
+
 
 <h3>Open source projects</h3>
 <table>
