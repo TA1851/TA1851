@@ -88,5 +88,7 @@ I'm tatuhiko osaka, from Sapporo, Japan.
 <br>
 <br>
 
-<a href="https://github-readme-stats.vercel.app/api/pin/?username=zizi4n5&repo=homebridge-switchbot-for-mac&show_owner=true">
+<a href="https://github-readme-stats.vercel.app/api/pin/?username=TA1851&repo=homebridge-switchbot-for-mac&show_owner=true">
 </a>
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TA1851)](https://github.com/anuraghazra/github-readme-stats)
