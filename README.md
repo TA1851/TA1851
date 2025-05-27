@@ -1,126 +1,183 @@
-# Welcome to my page!
-I'm tatuhiko osaka, from Sapporo, Japan.
+# Welcome to my page! 👋
 
-<h3>Where to find me</h3>
+<div align="center">
 
-/* SNS */
-<p>
-  <a href="https://github.com/TA1851" target="_blank">
-    <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
-  </a>
-  <a href="https://x.com/darry6335" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://qiita.com/TA6335" target="_blank">
-    <img alt="Medium" src="https://img.shields.io/badge/qiita-55C500.svg?&style=for-the-badge&logo=qiita&logoColor=white" />
-  </a>
-</p>
+**I'm Tatsuhiko Osaka, from Sapporo, Japan** 🗾
 
-## App Profile
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Frontend+Developer;Backend+Engineer;Full+Stack+Developer;Always+learning+new+things)](https://git.io/typing-svg)
 
-<!-- Badges -->
-<table>
+</div>
+
+---
+
+## 🌐 Where to find me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/TA1851)
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/darry6335)
+[![Qiita](https://img.shields.io/badge/qiita-55C500.svg?&style=for-the-badge&logo=qiita&logoColor=white)](https://qiita.com/TA6335)
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<table align="center">
   <tr>
-    <td>License</td>
-    <td>Env</td>
-    <td>Lang</td>
-    <td>DB</td>
-    <td>Editor</td>
-    <td>Other</td>
+    <td align="center"><strong>🏢 Environment</strong></td>
+    <td align="center"><strong>💻 Languages</strong></td>
+    <td align="center"><strong>🚀 Frameworks</strong></td>
   </tr>
   <tr>
-    <td>
-      <a href="./LICENSE">
-        <img src="http://img.shields.io/badge/license-MIT-blue.svg?style=flat">
-      </a>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=flat">
+    <td align="center">
+      <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
       <br>
-      <img src="https://img.shields.io/badge/-zsh-555.svg?logo=&style=flat">
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/-HTML5-333.svg?logo=html5&style=flat">
-      <img src="https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat">
-      <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white">
+      <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white">
       <br>
-      <img src="https://img.shields.io/badge/-JavaScript-276DC3.svg?logo=javascript&style=flat">
-      <img src="https://img.shields.io/badge/-Node.js-555.svg?logo=nodedotjs&style=flat">
-      <img src="https://img.shields.io/badge/-TypeScript-555.svg?logo=typescript&style=flat">
-      <br>
-      <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB">
-      <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white">
-      <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff">
-      <img src="https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff">
-      <br>
-      <img src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat">
-      <img src="https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white">
-      <br>
+      <img src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white">
     </td>
-    <td>
-      <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?logo=sqlite&style=flat">
+    <td align="center">
+      <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+      <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+      <br>
+      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+      <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+      <br>
+      <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white">
+      <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
     </td>
-    <td>
-      <img src="https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white">
-      <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white">
+    <td align="center">
+      <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black">
+      <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white">
+      <br>
+      <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white">
+      <img src="https://img.shields.io/badge/-Astro-BC52EE?style=flat-square&logo=astro&logoColor=white">
+      <br>
+      <img src="https://img.shields.io/badge/-FastAPI-009485?style=flat-square&logo=fastapi&logoColor=white">
+      <img src="https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white">
     </td>
-    <td>
-      <img src="https://img.shields.io/badge/Sphinx-000?logo=sphinx&logoColor=fff">
-      <img src="https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff">
-      <img src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white">
-      <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff">
-      <img src="https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff">
+  </tr>
+  <tr>
+    <td align="center"><strong>🗄️ Database</strong></td>
+    <td align="center"><strong>⚡ Editors</strong></td>
+    <td align="center"><strong>🔧 Tools</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white">
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white">
+      <br>
+      <img src="https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=white">
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-GitHub%20Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white">
+      <br>
+      <img src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white">
+      <br>
+      <img src="https://img.shields.io/badge/-Sphinx-000000?style=flat-square&logo=sphinx&logoColor=white">
     </td>
   </tr>
 </table>
 
-<br>
-<br>
+---
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=TA1851&count_private=true&show_icons=true">
-</a>
+## 📊 GitHub Analytics
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TA1851">
-</a>
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TA1851&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0d1117&text_color=58a6ff&title_color=58a6ff&icon_color=58a6ff"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TA1851&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&text_color=58a6ff&title_color=58a6ff"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=TA1851&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
-### Open source projects
+## 🎯 Featured Projects
+
+<div align="center">
 
 <table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
+  <thead>
+    <tr>
+      <th>🎁 Project</th>
+      <th>⭐ Stars</th>
+      <th>📚 Forks</th>
+      <th>🛎 Issues</th>
+      <th>📬 Pull Requests</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/TA1851/Astro-Portfolio"><b>Astro-Portfolio</b></a></td>    
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/TA1851/sky-follower-bridge?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/TA1851/sky-follower-bridge?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/TA1851/sky-follower-bridge?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/TA1851/sky-follower-bridge?style=flat-square&labelColor=343b41"/>     </td>
+      <td>
+        <a href="https://github.com/TA1851/Astro-Portfolio">
+          <b>Astro Portfolio</b>
+        </a>
+        <br>
+        <small>Modern portfolio site built with Astro</small>
+      </td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/TA1851/Astro-Portfolio?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/TA1851/Astro-Portfolio?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/TA1851/Astro-Portfolio?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/TA1851/Astro-Portfolio?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/TA1851/blog-api-main"><b>FastApiProject</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/TA1851/vue-word-highlighter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/TA1851/vue-word-highlighter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/TA1851/vue-word-highlighter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/TA1851/vue-word-highlighter?style=flat-square&labelColor=343b41"/>     </td>
+      <td>
+        <a href="https://github.com/TA1851/blog-api-main">
+          <b>FastAPI Project</b>
+        </a>
+        <br>
+        <small>RESTful API built with FastAPI</small>
+      </td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/TA1851/blog-api-main?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/TA1851/blog-api-main?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/TA1851/blog-api-main?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/TA1851/blog-api-main?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/TA1851/Portfolio-Nextjs"><b>Nextjs-Project</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/TA1851/vue-word-highlighter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/TA1851/vue-word-highlighter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/TA1851/vue-word-highlighter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/TA1851/vue-word-highlighter?style=flat-square&labelColor=343b41"/>     </td>
+      <td>
+        <a href="https://github.com/TA1851/Portfolio-Nextjs">
+          <b>Next.js Project</b>
+        </a>
+        <br>
+        <small>Portfolio website with Next.js</small>
+      </td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/TA1851/Portfolio-Nextjs?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/TA1851/Portfolio-Nextjs?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/TA1851/Portfolio-Nextjs?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/TA1851/Portfolio-Nextjs?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
 
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TA1851&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff)](https://github.com/TA1851)
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=TA1851&color=58a6ff&style=flat-square&label=Profile+Views)
+
+**Thank you for visiting my profile!** ✨
+
+</div>
