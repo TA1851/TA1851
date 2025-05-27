@@ -8,7 +8,6 @@
 
 </div>
 
----
 
 ## 🌐 Where to find me
 
@@ -20,7 +19,6 @@
 
 </div>
 
----
 
 ## 🛠️ Tech Stack
 
