@@ -2,6 +2,8 @@
 I'm tatuhiko osaka, from Sapporo, Japan.
 
 <h3>Where to find me</h3>
+
+/* SNS */
 <p>
   <a href="https://github.com/TA1851" target="_blank">
     <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
@@ -76,7 +78,7 @@ I'm tatuhiko osaka, from Sapporo, Japan.
 <br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=TA1851">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=TA1851&count_private=true&show_icons=true">
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -86,4 +88,5 @@ I'm tatuhiko osaka, from Sapporo, Japan.
 <br>
 <br>
 
-![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=TA1851&repo=homebridge-switchbot-for-mac)
+<a href="https://github-readme-stats.vercel.app/api/pin/?username=zizi4n5&repo=homebridge-switchbot-for-mac&show_owner=true">
+</a>
