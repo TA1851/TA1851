@@ -60,7 +60,7 @@
   <tr>
     <td align="center"><strong>🗄️ Database</strong></td>
     <td align="center"><strong>⚡ Editors</strong></td>
-    <td align="center"><strong>🔧 Tools</strong></td>
+    <td align="center"><strong>🔧 Other</strong></td>
   </tr>
   <tr>
     <td align="center">
