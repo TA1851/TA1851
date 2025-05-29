@@ -1,22 +1,20 @@
 name: LAPRAS Card
+
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *"  # ここも修正（**を* * *に）
+    - cron: "0 0 * * *"
+
 jobs:
   update-card:
     name: LAPRAS Card
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
-      - uses: actions/checkout@v3
-      - name: Generate LAPRAS Card
-        uses: TA1851/lapras-card-readme@v1  # @mainではなく@v1を試す
+      - uses: TA/lapras-card-readme@main
         with:
           SHARE_ID: LAPRAS
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           # 以下オプション
+          # https://lapras-card-generator.vercel.app でカスタマイズしたデザインを設定可能
           # ICON_FIRST: "#030E21"
           # ICON_SECOND: "#1688BF"
           # BACKGROUND_FIRST: "#020E27"
