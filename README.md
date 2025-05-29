@@ -152,8 +152,10 @@
 
 </div>
 
-<!--START_SECTION:lapras-card-->
-<!--END_SECTION:lapras-card-->
+[![wakatime](https://wakatime.com/badge/user/TA1851.svg)](https://wakatime.com/TA1851)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 ## 📈 Contribution Activity
