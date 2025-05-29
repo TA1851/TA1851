@@ -152,7 +152,6 @@
 
 </div>
 
-[![wakatime](https://wakatime.com/badge/user/TA1851.svg)](https://wakatime.com/TA1851)
 
 <!--START_SECTION:waka-->
 
