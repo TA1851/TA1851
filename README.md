@@ -152,7 +152,7 @@
 
 </div>
 
-## 😈　language used
+## 😈language used
 
 <!--START_SECTION:waka-->
 
