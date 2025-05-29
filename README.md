@@ -65,6 +65,7 @@
   <tr>
     <td align="center">
       <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white">
+      <img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white">
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white">
