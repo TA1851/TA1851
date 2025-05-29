@@ -14,7 +14,7 @@ jobs:
       - name: Generate LAPRAS Card
         uses: TA1851/lapras-card-readme@v1  # @mainではなく@v1を試す
         with:
-          SHARE_ID: "LAPRAS"
+          SHARE_ID: LAPRAS
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           # 以下オプション
           # ICON_FIRST: "#030E21"
