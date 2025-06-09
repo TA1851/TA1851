@@ -10,7 +10,7 @@ jobs:
     name: LAPRAS Card
     runs-on: ubuntu-latest
     steps:
-      - uses: kawamataryo/lapras-card-readme@main
+      - uses: ta1851/lapras-card-readme@main
         with:
           SHARE_ID: "https://lapras.com/public/FQRJARX"
           # 以下オプション
