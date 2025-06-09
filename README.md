@@ -172,6 +172,8 @@ No activity tracked
 
 </div>
 
+<!--START_SECTION:lapras-card-->
+<!--END_SECTION:lapras-card-->
 
 <div align="center">
 
