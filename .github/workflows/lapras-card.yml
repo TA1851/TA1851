@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: TA1851/lapras-card-readme@main
         with:
-          SHARE_ID: FQRJARX
+          SHARE_ID: "FQRJARX"
           # 以下オプション
           # https://lapras-card-generator.vercel.app でカスタマイズしたデザインを設定可能
           # ICON_FIRST: "#030E21"
