@@ -114,7 +114,7 @@
     <tr>
       <td>
         <a href="https://github.com/TA1851/Portfolio-site">
-          <b>Astro Portfolio</b>
+          <b>Next.js + Sanity CMS</b>
         </a>
         <br>
         <small>Modern portfolio site</small>
