@@ -88,13 +88,13 @@
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<!-- <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TA1851&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0d1117&text_color=58a6ff&title_color=58a6ff&icon_color=58a6ff"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TA1851&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&text_color=58a6ff&title_color=58a6ff"/>
 
-</div>
+</div> -->
 
 
 ## 🎯 Featured Projects
