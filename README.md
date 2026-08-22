@@ -138,32 +138,6 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/TA1851/blog-api-main?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/TA1851/blog-api-main?style=flat-square&labelColor=343b41"/></td>
     </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/TA1851/Portfolio-Nextjs">
-          <b>Next.js Project</b>
-        </a>
-        <br>
-        <small>Portfolio website with Next.js</small>
-      </td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/TA1851/Portfolio-Nextjs?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/TA1851/Portfolio-Nextjs?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/TA1851/Portfolio-Nextjs?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/TA1851/Portfolio-Nextjs?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/TA1851/kakebo-app">
-          <b>Spring Boot Flux Project</b>
-        </a>
-        <br>
-        <small>Spring Boot Flux Project</small>
-      </td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/https:/TA1851/kakebo-app?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/TA1851/kakebo-app?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/TA1851/kakebo-app?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/TA1851/kakebo-app?style=flat-square&labelColor=343b41"/></td>
-    </tr>
   </tbody>
 </table>
 
